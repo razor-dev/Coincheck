@@ -1,0 +1,1 @@
+Coincheck connector for hummingbot
